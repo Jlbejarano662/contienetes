@@ -1,4 +1,4 @@
-package com.alkemy.continentes;
+package com.alkemy.continentes.continentes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

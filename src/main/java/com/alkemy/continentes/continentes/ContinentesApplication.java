@@ -1,4 +1,4 @@
-package com.alkemy.continentes;
+package com.alkemy.continentes.continentes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
